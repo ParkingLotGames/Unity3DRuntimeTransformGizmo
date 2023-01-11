@@ -1,6 +1,6 @@
 {
   "name": "com.hiddenmonk.u3drtg",
-  "displayName": "Runtime Scene Gizmo",
+  "displayName": "Runtime Transform Gizmo",
   "version": "1.0.1",
   "documentationUrl": "https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo",
   "changelogUrl": "https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo.git/releases",
