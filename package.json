@@ -1,0 +1,10 @@
+{
+  "name": "com.hiddenmonk.u3drtg",
+  "displayName": "Runtime Scene Gizmo",
+  "version": "1.0.1",
+  "documentationUrl": "https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo",
+  "changelogUrl": "https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo.git/releases",
+  "licensesUrl": "https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo/blob/master/LICENSE",
+  "description": "A runtime transform gizmo similar to unitys editor so you can translate (move, rotate, scale) objects at runtime.",
+  "hideInEditor": false
+}
